@@ -65,24 +65,29 @@ This repository is a place where [Localroot](./) has been compiled and tested.
 - [CVE-2015-1328](./2015/CVE-2015-1328)　　[overlayfs]  
 (3.13, 3.16.0, 3.19.0)  
 
-- [CVE-2014-4699](./2014/CVE-2014-4699)　　[ptrace]  
+- [CVE-2014-4699](./2014/CVE-2014-4699/)　　[ptrace]  
 (before 3.15.4)  
 
-- [CVE-2014-4014](./2014/CVE-2014-4014)　　[Local Privilege Escalation]  
+- [CVE-2014-4014](./2014/CVE-2014-4014/)　　[Local Privilege Escalation]  
 (before 3.14.8)  
 
-- [CVE-2014-3153](./2014/CVE-2014-3153)　　[futex]  
+- [CVE-2014-3153](./2014/CVE-2014-3153/)　　[futex]  
 (3.3.5 ,3.3.4 ,3.3.2 ,3.2.13 ,3.2.9 ,3.2.1 ,3.1.8 ,3.0.5 ,3.0.4 ,3.0.2 ,3.0.1 ,2.6.39 ,2.6.38 ,2.6.37 ,2.6.35 ,2.6.34 ,2.6.33 ,2.6.32 ,2.6.9 ,2.6.8 ,2.6.7 ,2.6.6 ,2.6.5 ,2.6.4 ,3.2.2 ,3.0.18 ,3.0 ,2.6.8.1)  
 
-- [CVE-2014-0196](./2014/CVE-2014-0196)　　[rawmodePTY]  
+- [CVE-2014-0196](./2014/CVE-2014-0196/)　　[rawmodePTY]  
 (2.6.31, 2.6.32, 2.6.33, 2.6.34, 2.6.35, 2.6.36, 2.6.37, 2.6.38, 2.6.39, 3.14, 3.15)  
 
-- [CVE-2014-0038](./2014/CVE-2014-0038)　　[timeoutpwn]  
+- [CVE-2014-0038](./2014/CVE-2014-0038/)　　[timeoutpwn]  
 (3.4, 3.5, 3.6, 3.7, 3.8, 3.8.9, 3.9, 3.10, 3.11, 3.12, 3.13, 3.4.0, 3.5.0, 3.6.0, 3.7.0, 3.8.0, 3.8.5, 3.8.6, 3.8.9, 3.9.0, 3.9.6, 3.10.0, 3.10.6, 3.11.0, 3.12.0, 3.13.0, 3.13.1)  
+
+- [CVE-2013-2171](./2013/CVE-2013-2171/)  [nmap/ptrace exploit]
+(FreeBSD 9.1]
 
 - [CVE-2013-2094](./2013/CVE-2013-2094/)  [perf_swevent_init]
 (Ubuntu 12.04.0 > 12.04.2)
 
+- [CVE-2012-0217](./2012/CVE-2012-0217/)  [Intel SYSRET]
+(FreeBSD 9.0)
 
 ## Disclaimer
 Any actions and or activities related to the material contained within this [tools](./) is solely your responsibility. The misuse of the information in this [tools](./) can result in criminal charges brought against the persons in question.
