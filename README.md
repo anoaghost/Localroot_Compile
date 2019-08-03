@@ -89,6 +89,9 @@ This repository is a place where [Localroot](./) has been compiled and tested.
 - [CVE-2012-0217](./2012/CVE-2012-0217/)  [Intel SYSRET]
 (FreeBSD 9.0)
 
+- [CVE-2011-4862](./2011/CVE-2011-4862/)  [Buffer overflow in libtelnet/encrypt.c]
+(FreeBSD 7.3 > 9.0)
+
 ## Disclaimer
 Any actions and or activities related to the material contained within this [tools](./) is solely your responsibility. The misuse of the information in this [tools](./) can result in criminal charges brought against the persons in question.
 
