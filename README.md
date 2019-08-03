@@ -86,6 +86,9 @@ This repository is a place where [Localroot](./) has been compiled and tested.
 - [CVE-2013-2094](./2013/CVE-2013-2094/)  [perf_swevent_init]
 (Ubuntu 12.04.0 > 12.04.2)
 
+- [CVE-2013-1763](./2013/CVE-2013-1763/)  [Array index error in the __sock_diag_rcv_msg function in net/core/sock_diag.c]
+(3.3 - 3.7 arch)
+
 - [CVE-2012-0217](./2012/CVE-2012-0217/)  [Intel SYSRET]
 (FreeBSD 9.0)
 
