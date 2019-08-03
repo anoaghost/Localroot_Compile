@@ -1,6 +1,6 @@
 # Localroot Exploit
 
-This repository is a place where [Localroot](Localroot_Compile) has been compiled and tested.
+This repository is a place where [Localroot](./) has been compiled and tested.
 
 
 ***
@@ -79,7 +79,7 @@ This repository is a place where [Localroot](Localroot_Compile) has been compile
 
 
 ## Disclaimer
-Any actions and or activities related to the material contained within this [tools](Localroot_Compile) is solely your responsibility. The misuse of the information in this [tools](Localroot_Compile) can result in criminal charges brought against the persons in question.
+Any actions and or activities related to the material contained within this [tools](./) is solely your responsibility. The misuse of the information in this [tools](./) can result in criminal charges brought against the persons in question.
 
 ***
 
