@@ -16,6 +16,9 @@ This repository is a place where [Localroot](./) has been compiled and tested.
 - [CVE-2019-7304](./2019/CVE-2019-7304)  [Canonical snapd before version 2.37.1 incorrectly performed socket owner validation]
 (Ubuntu 14.04, 16.04, 18.04, 18.10)
 
+- [CVE-2018-1000001](./2018/CVE-2018-1000001/)  [glibc]
+(glibc <= 2.26)
+
 - [CVE-2018-16323[(./2018/CVE-2018-16323)  [ReadXBMImage in coders/xbm.c in ImageMagick]
 (Ubuntu 14.04, 16.04, 18.04)
 
@@ -76,6 +79,9 @@ This repository is a place where [Localroot](./) has been compiled and tested.
 
 - [CVE-2014-0038](./2014/CVE-2014-0038)　　[timeoutpwn]  
 (3.4, 3.5, 3.6, 3.7, 3.8, 3.8.9, 3.9, 3.10, 3.11, 3.12, 3.13, 3.4.0, 3.5.0, 3.6.0, 3.7.0, 3.8.0, 3.8.5, 3.8.6, 3.8.9, 3.9.0, 3.9.6, 3.10.0, 3.10.6, 3.11.0, 3.12.0, 3.13.0, 3.13.1)  
+
+- [CVE-2013-2094](./2013/CVE-2013-2094/)  [perf_swevent_init]
+(Ubuntu 12.04.0 > 12.04.2)
 
 
 ## Disclaimer
