@@ -101,7 +101,7 @@ Any actions and or activities related to the material contained within this [too
 ***
 
 ### ***Contact me***
-***Website*** : [Valeiriya.osaka](https://valeiriya.osaka/)
+***Website*** : [Valeiriya.osaka](https://github.valeiriya.osaka/)
 
 ***Twitter*** : [AnoaGhost](https://twitter.com/AnoaGhost)
 ###
