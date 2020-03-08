@@ -5,7 +5,9 @@ This repository is a place where [Localroot](./) has been compiled and tested.
 
 ***
 ### Linux Kernel Exploit with Compile
-#### #CVE　　#Description　　#Kernels  
+#### #CVE　　#Description　　#Kernels 
+
+- [CVE-2020-7247](./2020/CVE-2020-7247)  [root66 OpenBSD 6.6 OpenSMTPD 6.6 local root exploit.]  [OpenSMTPD 6.6, as used in OpenBSD 6.6 and other products, allows remote attackers to execute arbitrary commands as root via a crafted MAIL FROM address.]
 
 - [CVE-2019-19726](./2019/CVE-2019-19726)  [OpenBSD-dynamic-loader-chpass OpenBSD local root exploit]  (OpenBSD through 6.6 allows local users to escalate to root because a check for LD_LIBRARY_PATH in setuid programs can be defeated by setting a very small RLIMIT_DATA resource limit. When executing chpass or passwd (which are setuid root), _dl_setup_env in ld.so tries to strip LD_LIBRARY_PATH from the environment, but fails when it cannot allocate memory. Thus, the attacker is able to execute their own library code as root.)
 
