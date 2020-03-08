@@ -7,6 +7,9 @@ This repository is a place where [Localroot](./) has been compiled and tested.
 ### Linux Kernel Exploit with Compile
 #### #CVE　　#Description　　#Kernels  
 
+- [CVE-2019-19520](./2019/CVE-2019-19520)  [OpenBSD local root exploit]
+(xlock in OpenBSD 6.6 allows local users to gain the privileges of the auth group by providing a LIBGL_DRIVERS_PATH environment variable, because xenocara/lib/mesa/src/loader/loader.c mishandles dlopen. OpenBSD 6.6, in a non-default configuration where S/Key or YubiKey authentication is enabled, allows local users to become root by leveraging membership in the auth group. This occurs because root's file can be written to /etc/skey or /var/db/yubikey, and need not be owned by root.)
+
 - [CVE-2019-13272](./2019/CVE-2019/13272)  [Linux 4.10 < 5.1.17 PTRACE_TRACEME]
 (Ubuntu 16.04.5, Debian 9.4.0, Parrot OS 4.5.1, ElementaryOS 0.4.1, etc)
 
