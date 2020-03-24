@@ -28,7 +28,7 @@ This repository is a place where [Localroot](./) has been compiled and tested.
 - [CVE-2018-1000001](./2018/CVE-2018-1000001/)  [glibc]
 (glibc <= 2.26)
 
-- [CVE-2018-16323[(./2018/CVE-2018-16323)  [ReadXBMImage in coders/xbm.c in ImageMagick]
+- [CVE-2018-16323](./2018/CVE-2018-16323)  [ReadXBMImage in coders/xbm.c in ImageMagick]
 (Ubuntu 14.04, 16.04, 18.04)
 
 - [CVE-2018-14665](./2018/CVE-2018-14665)  [xorg-x11-server < 1.20.1]
